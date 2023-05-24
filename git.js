@@ -1,3 +1,3 @@
-console.log("starting2");
-console.log("startingTwo");
+console.log("startingWork12");
+console.log("startingWorkTwo2");
 
